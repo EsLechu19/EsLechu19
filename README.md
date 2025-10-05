@@ -12,13 +12,19 @@
 - :star: Everyone is the protagonist of their own life
 ---
 <br>
-## 🤝 Connect with me
+<br>
+<!-- DIF GATO -->
+</table>
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWp4OHh4b2tpd2l5MmdzMXVsZGU5MHNhbWZ6eGZybGpoa2s1MWx6cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.gif" width="300">
+</p>
+<br>
+<!-- SECCION CONTACTO -->
+<!-- <h3 align="center">Connect with me</h3>
 <p align="center">
 	<a href="mailto:bouaskaoun.mohammed@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/bouaskaoun/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://github.com/Bouaskaoun"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://www.kaggle.com/bouaskaounmohammed"><img src="https://img.shields.io/badge/kaggle-%230A66C2.svg?style=plastic&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
 </p>
-<br>
-
-<img alt="dsmark" align="center"  height="40%" width="40%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
+-->
