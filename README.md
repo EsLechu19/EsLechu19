@@ -1,30 +1,29 @@
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
 <h1 align="center"><b>Hi , I'm Esau Lechuga </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <br>
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<!-- Section About Me -->
 
-- 👨‍💻 I am currently a 6th-semester student in the software engineering program.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- :star: Everyone is the protagonist of their own life
+## 👨🏻‍💻 About Me
+
+- 💡 Software Engineering student.
+
+- ☕ Specializing in Java, Spring Boot, and Web Development.
+
+- 🚀 Building Full Stack projects to strengthen my professional skills.
+
+- 🌱 Continuously learning about Cloud Computing, DevOps, and Artificial Intelligence.
+
+- 🤝 Interested in internship opportunities, collaboration, and professional growth.
+
 ---
+
 <br>
 <br>
-<!-- DIF GATO -->
-</table>
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWp4OHh4b2tpd2l5MmdzMXVsZGU5MHNhbWZ6eGZybGpoa2s1MWx6cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.gif" width="300">
-</p>
-<br>
+
 <!-- SECCION CONTACTO -->
-<!-- <h3 align="center">Connect with me</h3>
+### 🤝🏻 &nbsp;Connect with Me
 <p align="center">
-	<a href="mailto:bouaskaoun.mohammed@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/bouaskaoun/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://github.com/Bouaskaoun"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.kaggle.com/bouaskaounmohammed"><img src="https://img.shields.io/badge/kaggle-%230A66C2.svg?style=plastic&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+	<a href="esaulechuga1@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://www.linkedin.com/in/esau-lechuga-monge-12b720362/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
--->
+
