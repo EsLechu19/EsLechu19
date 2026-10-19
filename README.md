@@ -21,6 +21,17 @@ Mobile app + web dashboard + backend infrastructure for managing virtual queues,
 
 ---
 
+### Nexus
+**Inventory and sales management system built with a specification-driven workflow.**
+
+Includes inventory movements, suppliers, stock control, authentication, sales transactions, database migrations, automated testing, and a React frontend.
+
+**Tech:** Python · FastAPI · PostgreSQL · SQLAlchemy · Alembic · React · Pytest
+
+[View repository](https://github.com/EsLechu19/Nexus)
+
+---
+
 ### BarrioGo
 **Mobile platform connecting neighborhood food businesses directly with their customers.**
 
